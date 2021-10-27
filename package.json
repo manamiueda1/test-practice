@@ -1,0 +1,23 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manamiueda1/test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manamiueda1/test-practice/issues"
+  },
+  "homepage": "https://github.com/manamiueda1/test-practice#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
